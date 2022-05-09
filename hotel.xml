@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hotel>
+    <room number="103">
+        <free>no</free>
+        <checkInDate>2020-06-05</checkInDate>
+        <checkOutDate>2020-06-20</checkOutDate>
+        <beds>2</beds>
+        <guests>1</guests>
+        <note>null</note>
+    </room>
+    <room number="303">
+        <free>yes</free>
+        <checkInDate>null</checkInDate>
+        <checkOutDate>null</checkOutDate>
+        <beds>1</beds>
+        <guests>0</guests>
+        <note>null</note>
+    </room>
+    <room number="401">
+        <free>no</free>
+        <checkInDate>2020-06-06</checkInDate>
+        <checkOutDate>2020-06-09</checkOutDate>
+        <beds>4</beds>
+        <guests>4</guests>
+        <note>[The, Gulliable]</note>
+    </room>
+
+</hotel>
