@@ -1,28 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <hotel>
+    <room number="101">
+        <free>no</free>
+        <checkInDate>2022-06-15</checkInDate>
+        <checkOutDate>2022-06-30</checkOutDate>
+        <beds>3</beds>
+        <guests>1</guests>
+        <note>NULL</note>
+    </room>
+    <room number="102">
+        <free>no</free>
+        <checkInDate>2022-06-29</checkInDate>
+        <checkOutDate>2022-07-05</checkOutDate>
+        <beds>2</beds>
+        <guests>2</guests>
+        <note>[The, Witchers]</note>
+    </room>
     <room number="103">
         <free>no</free>
-        <checkInDate>2020-06-05</checkInDate>
-        <checkOutDate>2020-06-20</checkOutDate>
+        <checkInDate>2022-06-21</checkInDate>
+        <checkOutDate>2022-07-05</checkOutDate>
         <beds>2</beds>
-        <guests>1</guests>
-        <note>null</note>
+        <guests>2</guests>
+        <note>[Room, service]</note>
     </room>
-    <room number="303">
+    <room number="201">
         <free>yes</free>
-        <checkInDate>null</checkInDate>
-        <checkOutDate>null</checkOutDate>
+        <checkInDate>NULL</checkInDate>
+        <checkOutDate>NULL</checkOutDate>
         <beds>1</beds>
         <guests>0</guests>
-        <note>null</note>
+        <note>NULL</note>
+    </room>
+    <room number="202">
+        <free>no</free>
+        <checkInDate>2022-06-29</checkInDate>
+        <checkOutDate>2022-07-01</checkOutDate>
+        <beds>3</beds>
+        <guests>4</guests>
+        <note>[Sea, view]</note>
+    </room>
+    <room number="203">
+        <free>no</free>
+        <checkInDate>2022-06-30</checkInDate>
+        <checkOutDate>2022-07-01</checkOutDate>
+        <beds>1</beds>
+        <guests>2</guests>
+        <note>[Extra, cleaning]</note>
+    </room>
+    <room number="301">
+        <free>no</free>
+        <checkInDate>2022-06-29</checkInDate>
+        <checkOutDate>2022-06-30</checkOutDate>
+        <beds>2</beds>
+        <guests>1</guests>
+        <note>[The, Simpsons]</note>
+    </room>
+    <room number="302">
+        <free>yes</free>
+        <checkInDate>NULL</checkInDate>
+        <checkOutDate>NULL</checkOutDate>
+        <beds>1</beds>
+        <guests>0</guests>
+        <note>NULL</note>
+    </room>
+    <room number="303">
+        <free>no</free>
+        <checkInDate>2022-06-27</checkInDate>
+        <checkOutDate>2022-07-02</checkOutDate>
+        <beds>2</beds>
+        <guests>2</guests>
+        <note>[Wake-up,call]</note>
     </room>
     <room number="401">
         <free>no</free>
-        <checkInDate>2020-06-06</checkInDate>
-        <checkOutDate>2020-06-09</checkOutDate>
+        <checkInDate>2022-06-28</checkInDate>
+        <checkOutDate>2022-03-30</checkOutDate>
         <beds>4</beds>
-        <guests>4</guests>
-        <note>[The, Gulliable]</note>
+        <guests>0</guests>
+        <note>[Under, construction]</note>
+    </room>
+    <room number="402">
+        <free>no</free>
+        <checkInDate>2022-06-30</checkInDate>
+        <checkOutDate>2022-07-05</checkOutDate>
+        <beds>2</beds>
+        <guests>3</guests>
+        <note>[With, children]</note>
+    </room>
+    <room number="403">
+        <free>no</free>
+        <checkInDate>2022-06-25</checkInDate>
+        <checkOutDate>2022-06-30</checkOutDate>
+        <beds>3</beds>
+        <guests>3</guests>
+        <note>[With, pets]</note>
+    </room>
+    <room number="404">
+        <free>yes</free>
+        <checkInDate>NULL</checkInDate>
+        <checkOutDate>NULL</checkOutDate>
+        <beds>1</beds>
+        <guests>1</guests>
+        <note>NULL</note>
     </room>
 
 </hotel>

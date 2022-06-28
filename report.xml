@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+    <room number="401">
+        <checkInDate>2020-06-01</checkInDate>
+        <checkOutDate>2020-06-05</checkOutDate>
+    </room>
+    <room number="401">
+        <checkInDate>2020-06-07</checkInDate>
+        <checkOutDate>2020-06-15</checkOutDate>
+    </room>
+    <room number="101">
+        <checkInDate>2022-06-05</checkInDate>
+        <checkOutDate>2022-06-11</checkOutDate>
+    </room>
+    <room number="303">
+        <checkInDate>2022-06-08</checkInDate>
+        <checkOutDate>2022-06-20</checkOutDate>
+    </room>
+    <room number="102">
+        <checkInDate>2022-06-29</checkInDate>
+        <checkOutDate>2022-06-30</checkOutDate>
+    </room>
+    <room number="102">
+        <checkInDate>2022-07-01</checkInDate>
+        <checkOutDate>2022-07-05</checkOutDate>
+    </room>
+</report>
